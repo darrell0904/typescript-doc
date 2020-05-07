@@ -1,12 +1,10 @@
 ![logo](http://img4.imgtn.bdimg.com/it/u=3756398993,2692643829&fm=26&gp=0.jpg)
 
-# let's learn TypeScript together!!!
+# Darrell 的 TypeScripe 学习笔记
 
-> A doc documentation of TypeScript.
+> good good study，day day up
 
-* Simple and lightweight (~12kb gzipped)
-* Multiple themes
-* Not build static html files
+* 自律给我自由
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/darrell0904/typescript-doc)
 [Get Started](zh-cn/guide)
