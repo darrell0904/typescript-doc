@@ -1,6 +1,7 @@
 * 初识 TypeScript
 	* [背景](zh-cn/chapter1/)
 	* [安装 TypeScript](zh-cn/chapter1/install)
+	* [使用 webpack 编译 TypeScript](zh-cn/chapter1/compile)
 	* [编写第一个 TypeScript 程序](zh-cn/chapter1/start)
 
 * TypeScript 基本用法
